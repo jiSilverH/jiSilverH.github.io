@@ -7,7 +7,7 @@ export const profile = {
   email: "hanji0514@gmail.com",
   workEmail: "ji-eun.han@kt.com",
   linkedin: "",
-  photo: "",
+  photo: "images/profile-avatar.png",
   cv: "",
   focus: ["Large Language Models", "Reinforcement Learning", "Reasoning", "Reliable AI", "Code Generation"],
   about: [

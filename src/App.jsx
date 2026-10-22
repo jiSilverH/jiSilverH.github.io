@@ -18,7 +18,9 @@ function App() {
 
       <main className="layout">
         <aside className="profile-card">
-          <div className="portrait" aria-label="Profile photo placeholder">JH</div>
+          <div className="portrait">
+            <img src={profile.photo} alt={`${profile.name} avatar`} />
+          </div>
           <p className="eyebrow">{profile.role}</p>
           <h1>{profile.name}</h1>
           <p className="native-name">{profile.nativeName}</p>
