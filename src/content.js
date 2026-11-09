@@ -39,8 +39,7 @@ export const publications = [
     authors: "Ji-Eun Han, Yoonseok Heo",
     venue: "EMNLP 2026 (Poster)",
     year: "2026",
-    paper: "#",
-    note: "Paper link to be added."
+    paper: "https://aclanthology.org/2026.emnlp-main.1228/"
   },
   {
     title: "Mi:dm K 2.5 Pro",
